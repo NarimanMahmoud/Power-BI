@@ -3,7 +3,7 @@
 🔗 [View the Power BI Dashboard](https://app.powerbi.com/groups/me/reports/1a1348a5-bfc9-4629-968f-a55cf96b414a/a29810cab479eac1495a?experience=power-bi)
 
 
-During my virtual internship with **PwC**, I had the opportunity to work on a **Call Center, Customer Retention, Demographics and HR Analytics Project. This experience enabled me to apply my expertise in **data analysis**, **visualization**, and **strategic decision-making** using real-world datasets. Below is an overview of the key components and insights derived from this project.
+During my virtual internship with **PwC**, I had the opportunity to work on a **Call Center, Customer Retention, Demographics and HR Analytics Dashboard** Project. This experience enabled me to apply my expertise in **data analysis**, **visualization**, and **strategic decision-making** using real-world datasets. Below is an overview of the key components and insights derived from this project.
 
 ![Screenshot 2024-09-09 115039](https://github.com/user-attachments/assets/0b0f66f5-785c-4540-95da-166bb0a08ff8)
 
